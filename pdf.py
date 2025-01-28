@@ -8,4 +8,3 @@ for file in os.listdir(os.curdir):
         merger.append(file)
 merger.write("Razem.pdf")
 merger.close()
-
